@@ -28,7 +28,8 @@ hs_err_pid*
 replay_pid*
 
 ### VisualStudioCode ###
-.vscode/*
+*/README.md
+*/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
